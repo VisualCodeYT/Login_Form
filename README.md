@@ -1,7 +1,6 @@
-## :candle:Card Expanding:candle:
+## :candle:Login Form:candle:
 
 - Mini project created using HTML, CSS and JAVASCRIPT.
-- Expand card on click.
 
 ## 🌱 Preview 🌱
 
@@ -12,11 +11,7 @@
 - Responsive design.
 - simple morden login form
 
-## :chains: Live Demo :chains:
-
-- [Morden Form DEMO](https://maheshchavda.ml/projects/mordenInputForm/index.html).
-
 ## 💬 Local Site 💬
 
 - Simply clone the project locally and open index.html in a browser. It's Done.
-- Feel free to <a href="mailto:Chavdamahesh2772@gmail.com">CONTACT ME</a> for any questions, concerns, or comments associated with the page.
+- Feel free to <a href="mailto:codeacrtutorials@gmail.com">CONTACT ME</a> for any questions, concerns, or comments associated with the page.
